@@ -10,6 +10,6 @@
 <br />
 <div align="center">
 <h2>spec</h2>
-💻 : MSI Modern 14
+💻 : MSI Prestige 15
 <div align="center">
-📱 : Google pixel 3
+📱 : Google pixel 4
