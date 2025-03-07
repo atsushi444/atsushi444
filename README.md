@@ -10,6 +10,7 @@
 <br />
 <div align="center">
 <h2>spec</h2>
-💻 : MSI Prestige 15
+💻 : Khadas Mind 2
 <div align="center">
-📱 : Google pixel 4
+📱 : Moto XT2451
+
