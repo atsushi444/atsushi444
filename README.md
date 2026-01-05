@@ -8,8 +8,20 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
+<div>
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=atsushi444&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=keyword" > 
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 35°36′26.2″N 140°06′22.9″E , **[Chiba, Tokyo.](https://en.wikipedia.org/wiki/Chiba_(city))**
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=keyword" > 
+
 
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=atsushi444&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FAA107&icon_color=FAA107&text_color=ACDEE6&bg_color=0A0A0A" alt="stats">
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=atsushi444&layout=compact&theme=dark&bg_color=0A0A0A" alt="atsushi toplang"/>
