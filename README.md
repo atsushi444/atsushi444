@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);!&center=true&size=27)](https://git.io/typing-svg)
+
 35°36′26.2″N 140°06′22.9″E , **[Chiba, Tokyo.](https://en.wikipedia.org/wiki/Chiba_(city))**
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=keyword" > 
 
