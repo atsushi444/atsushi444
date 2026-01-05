@@ -31,8 +31,7 @@
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=atsushi444&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FAA107&icon_color=FAA107&text_color=ACDEE6&bg_color=0A0A0A" width="45%" alt="stats">
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=atsushi444&layout=compact&theme=dark&bg_color=0A0A0A" width="45%" alt="atsushi toplang"/>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
+---
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 <div align="center">
