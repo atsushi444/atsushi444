@@ -1,10 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);!&center=true&size=27)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);****************&center=true&size=27)](https://www.google.com/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
 
 35°36′26.2″N 140°06′22.9″E , **[Chiba, Tokyo.](https://en.wikipedia.org/wiki/Chiba_(city))**
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=keyword" > 
 
 <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=atsushi444&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FAA107&icon_color=FAA107&text_color=ACDEE6&bg_color=0A0A0A" alt="stats">
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=atsushi444&layout=compact&theme=dark&bg_color=0A0A0A" alt="atsushi toplang"/>
+<img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=atsushi444&layout=compact&theme=dark&bg_color=0A0A0A" alt="atsushi toplang"/>
 <br />
 <div align="center">
 <h2>spec</h2>
