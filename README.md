@@ -37,5 +37,5 @@
 <h2>spec</h2>
 💻 : Khadas Mind 2
 <div align="center">
-📱 : Moto XT2451
+📱 : Moto XT2551
 
